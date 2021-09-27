@@ -1,3 +1,3 @@
-# new-repo
+# new-repo LOCAL
 
 Coucou à tous!
